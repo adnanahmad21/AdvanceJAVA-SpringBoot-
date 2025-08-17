@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7da038b0-0715-4b63-94b9-63b6e93bf392" name="Changes" comment="">
+    <list default="true" id="96c066b9-0731-45d1-820b-f0e7da135cb4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
@@ -11,26 +12,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "adnanahmad21"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adnanahmad21/AdvanceJAVA-SpringBoot-.git",
-    "accountId": "44786d99-e5c2-412f-9e79-2b362647e6f7"
-  }
-}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="31Dir46rqOywUqnyu4t6uh7jRxE" />
+  <component name="ProjectId" id="31MvccxDCYb5fu70l7lTHeM1MQz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,19 +24,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/AdvanceJAVA/SpringBoot/To-Do-app"
+    "last_opened_file_path": "F:/AdvanceJAVA/SpringBoot/Chat-Application"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7da038b0-0715-4b63-94b9-63b6e93bf392" name="Changes" comment="" />
-      <created>1755065241824</created>
+      <changelist id="96c066b9-0731-45d1-820b-f0e7da135cb4" name="Changes" comment="" />
+      <created>1755346838810</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755065241824</updated>
+      <updated>1755346838810</updated>
     </task>
     <servers />
   </component>
